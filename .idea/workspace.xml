@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="780f7118-27cc-494d-8125-86c64460c857" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SamplePack/File2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SamplePack/Sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/SamplePack/Sample.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Arun",
+    "git-widget-placeholder": "Merging Kumar",
     "last_opened_file_path": "C:/GIT/myFirstRepository"
   }
 }]]></component>
